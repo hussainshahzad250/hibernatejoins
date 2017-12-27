@@ -17,8 +17,12 @@
 
 		<mapping class="manyToMany.Department" />
 		<mapping class="manyToMany.Employee" />
+		
 		<mapping class="oneToOne.Address" />
 		<mapping class="oneToOne.Student" />
+		
+		<mapping class="manyToM.Categories" />
+		<mapping class="manyToM.Item" />
 
 	</session-factory>
 </hibernate-configuration>
