@@ -1,4 +1,4 @@
-package com.canbrand;
+package manyToMany;
 
 import java.util.List;
 

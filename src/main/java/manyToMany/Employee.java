@@ -1,4 +1,4 @@
-package com.canbrand;
+package manyToMany;
 import java.sql.Date;
 
 import javax.persistence.Column;
